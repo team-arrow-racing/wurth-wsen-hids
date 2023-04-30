@@ -1,2 +1,2 @@
-# wurth-wsen-hids
-Rust Library for the Wurth WSEN-HIDS Humidity Sensor with integrated Temperature Sensor.
+# Wurth WSEN-HIDS Embedded Driver
+This crate implements a driver for the Wurth Elektronik WSEN-HIDS Sensor. 
