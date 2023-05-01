@@ -1,0 +1,1 @@
+cargo flash --chip STM32L432KCUx --release
